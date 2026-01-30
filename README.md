@@ -1,0 +1,5 @@
+- Nhập và xuất thông tin sinh viên  
+- Làm việc với mảng  
+- Cấu trúc `struct`  
+- Sắp xếp và tìm kiếm  
+- In dữ liệu dạng bảng bằng `printf` 
